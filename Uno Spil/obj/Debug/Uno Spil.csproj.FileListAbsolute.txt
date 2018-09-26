@@ -1,0 +1,14 @@
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\bin\Debug\Uno Spil.exe.config
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\bin\Debug\Uno Spil.exe
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\bin\Debug\Uno Spil.pdb
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.exe
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.pdb
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.csprojAssemblyReference.cache
+C:\OneDrive\Delemappe\H1 - Datateknikker - Programmering\Programmeringsopgave - UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.csproj.CoreCompileInputs.cache
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\bin\Debug\Uno Spil.exe.config
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\bin\Debug\Uno Spil.exe
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\bin\Debug\Uno Spil.pdb
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.csprojAssemblyReference.cache
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.csproj.CoreCompileInputs.cache
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.exe
+C:\OneDrive\Datateknikker - Programmering\H1 - Programmør\Afleveringsopgaver\UNO Spil\Uno Spil\Uno Spil\obj\Debug\Uno Spil.pdb
